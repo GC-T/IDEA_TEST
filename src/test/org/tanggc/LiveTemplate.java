@@ -29,9 +29,6 @@ private int age;
 
     }
 
-    public static void main(String[] args) {
-
-    }
 
     private static void meth1() {
         new LiveTemplate("tnsg");
@@ -56,6 +53,9 @@ private int age;
     }
 
     private static void f1() {
+    }
+    public static void main(String[] args) {
+        FactoryImpl.sleep100Times();
     }
 
 

@@ -1,3 +1,5 @@
+import test.org.tanggc.FactoryImpl;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -66,6 +68,6 @@ public class Main {
 //        pic
 //        ps
 //        psc
-
+        FactoryImpl.sleep100Times();
     }
 }

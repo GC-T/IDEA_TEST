@@ -51,6 +51,11 @@ public class FactoryImpl implements Factory {
 
 
     public static void main(String[] args) {
+        sleep100Times();
+
+    }
+
+    public static void sleep100Times() {
         for (int i = 0; i < 100; i++) {
             System.out.println(new Date());
             try {
@@ -59,7 +64,6 @@ public class FactoryImpl implements Factory {
                 e.printStackTrace();
             }
         }
-
     }
 
 
