@@ -10,6 +10,7 @@ public class Code_08_NetherlandsFlag {
         System.out.println("fkajsflaj");
         System.out.println("fkajsflaj");
         System.out.println("ffjlkkajsflaj");
+        System.out.println("ffjlkkajsflaj");
 
         int less = l - 1;
         int more = r + 1;
