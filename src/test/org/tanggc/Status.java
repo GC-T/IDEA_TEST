@@ -25,7 +25,11 @@ public enum Status {
         this.code = code;
     }
     public static void main(String[] args) {
-
+        System.out.println("tanggh");
+        System.out.println("tanggh");
+        System.out.println("tanggh");
+        System.out.println("tanggh");
+        System.out.println("tanggh");
     }
 
 
