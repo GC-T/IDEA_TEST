@@ -26,6 +26,10 @@ public enum Status {
     }
     public static void main(String[] args) {
 
+        System.out.println("tangfeng");
+        System.out.println("tangfeng");
+        System.out.println("tangfeng");
+
     }
 
 
