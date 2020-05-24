@@ -59,6 +59,8 @@ private int age;
         FactoryImpl.sleep100Times();
 
         System.out.println("master");
+        System.out.println("master");
+        System.out.println("master");
     }
 
 
