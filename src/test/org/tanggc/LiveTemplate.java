@@ -44,7 +44,13 @@ private int age;
         FactoryImpl.sleep100Times();
         FactoryImpl.sleep100Times();
         FactoryImpl.sleep100Times();
-        System.out.println("this is dev branch");
+        System.out.println("this is dev master");
+        System.out.println("this is dev master");
+        System.out.println("this is dev master");
+        System.out.println("this is dev master");
+        System.out.println("this is dev master");
+        System.out.println("this is dev master");
+        System.out.println("this is dev master");
     }
 
 
