@@ -55,7 +55,10 @@ private int age;
     private static void f1() {
     }
     public static void main(String[] args) {
+
         FactoryImpl.sleep100Times();
+
+        System.out.println("master");
     }
 
 
