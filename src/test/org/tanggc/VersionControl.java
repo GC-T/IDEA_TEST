@@ -10,7 +10,10 @@ public class VersionControl {
         System.out.println("tanggc");
         System.out.println("tanggc");
         System.out.println("tanggc");
-        System.out.println("tanggc");
-        System.out.println("tanggc");
+        System.out.println("tanggh-tanggeng");
+        System.out.println("tanggh-tanggeng");
+        System.out.println("tanggh-tanggeng");
+        System.out.println("tanggh-tanggeng");
+        System.out.println("tanggh-tanggeng");
     }
 }
