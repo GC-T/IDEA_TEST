@@ -30,23 +30,6 @@ private int age;
     }
 
 
-    private static void meth1() {
-        new LiveTemplate("tnsg");
-
-
-        Date date = new Date();
-        if (date != null) {
-
-        }
-        if (date != null) {
-            f1();
-            f2();
-            if (date != null) {
-                
-            }
-
-        }
-    }
 
     private static void f2() {
 
@@ -57,10 +40,11 @@ private int age;
     public static void main(String[] args) {
 
         FactoryImpl.sleep100Times();
-
-        System.out.println("master");
-        System.out.println("master");
-        System.out.println("master");
+        FactoryImpl.sleep100Times();
+        FactoryImpl.sleep100Times();
+        FactoryImpl.sleep100Times();
+        FactoryImpl.sleep100Times();
+        System.out.println("this is dev branch");
     }
 
 
