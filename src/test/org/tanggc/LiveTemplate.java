@@ -38,7 +38,6 @@ private int age;
     private static void f1() {
     }
     public static void main(String[] args) {
-
         FactoryImpl.sleep100Times();
         FactoryImpl.sleep100Times();
         FactoryImpl.sleep100Times();
@@ -51,6 +50,14 @@ private int age;
         System.out.println("this is dev master");
         System.out.println("this is dev master");
         System.out.println("this is dev master");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
+        System.out.println("this is dev branch");
     }
 
 
