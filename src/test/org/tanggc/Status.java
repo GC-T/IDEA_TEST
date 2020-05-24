@@ -42,9 +42,7 @@ public enum Status {
         System.out.println("tangfeng");
         System.out.println("tangfeng");
         System.out.println("merge test");
-        System.out.println("merge test2");
-        System.out.println("merge test3");
-        System.out.println("merge test4");
+
     }
 
 
