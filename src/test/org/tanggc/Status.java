@@ -39,6 +39,10 @@ public enum Status {
         System.out.println("tangfeng");
         System.out.println("tangfeng");
 
+        System.out.println("tangfeng");
+        System.out.println("tangfeng");
+        System.out.println("tangfeng");
+
     }
 
 
